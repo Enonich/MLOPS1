@@ -1,0 +1,11 @@
+black
+fastparquet
+hyperopt
+mlflow==2.9.2
+pandas
+prefect
+prefect-aws
+scikit_learn==1.3.2
+seaborn
+xgboost
+orjson
