@@ -39,4 +39,4 @@ docker run -it --rm -p 9696:9696  ride-duration-prediction-service:v1
 
 
 ## Issues
-** I don't have access to aws resources (old account is not working) and I don't have a credit card now to create a new account
+** I don't have access to aws resources 
